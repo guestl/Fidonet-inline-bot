@@ -116,3 +116,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.NDL
+*.db
+config.py
